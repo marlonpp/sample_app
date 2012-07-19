@@ -63,12 +63,12 @@
     <orderEntry type="library" scope="PROVIDED" name="sass-rails (v3.2.5, RVM: ruby-1.9.3-p194) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="selenium-webdriver (v2.24.0, RVM: ruby-1.9.3-p194) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sprockets (v2.1.3, RVM: ruby-1.9.3-p194) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="sqlite3 (v1.3.6, RVM: ruby-1.9.3-p194) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="sqlite3 (v1.3.5, RVM: ruby-1.9.3-p194) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="thor (v0.15.4, RVM: ruby-1.9.3-p194) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="tilt (v1.3.3, RVM: ruby-1.9.3-p194) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="treetop (v1.4.10, RVM: ruby-1.9.3-p194) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="tzinfo (v0.3.33, RVM: ruby-1.9.3-p194) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="uglifier (v1.2.6, RVM: ruby-1.9.3-p194) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="uglifier (v1.2.3, RVM: ruby-1.9.3-p194) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="xpath (v0.1.4, RVM: ruby-1.9.3-p194) [gem]" level="application" />
   </component>
   <component name="RModuleSettingsStorage">
